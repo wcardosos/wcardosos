@@ -11,7 +11,7 @@ Meu nome é Wagner, tenho 23 anos. Sou desenvolvedor Web Fullstack. Fico muito f
 
 ## Sobre mim
 ### Quem sou
-Moro numa pequena cidade no interior da Paraíba, chamada Cuitegi. Sou são-paulino fanático. Não vejo problema em pedir desculpas e respeito as verdades de vida de cada pessoa acima de tudo. Prefiro arriscar e fracassar ao invés de ficar eternamente na incerteza por não ter tentado. Apaixonado por programação e tudo que envolve esse mundo!
+Moro numa pequena cidade no interior da Paraíba, chamada Cuitegi. Nasci em SP e vim morar aqui aos 8 anos. Sou são-paulino fanático. Gosto muito de ler. Mesmo sendo do mundo de exatas desde pequeno, dois dos meus sonhos são bem de humanas: um dia estudar psicologia e filosofia. Apaixonado por programação e tudo que envolve esse mundo! Já senti o gosto de poder impactar positivamente a vida das pessoas por meio da tecnologia e quero cada vez mais ter esta sensação.
 ### Meu trabalho
 Sou desenvolvedor fullstack júnior. Minhas tecnologias preferidas são **Python** e **Node.js** no backend e **React.js** com **Next.js** no frontend. Me interesso muito pelo campo de testes e procuro implementar **TDD** nos meus projetos. Iniciei a publicação de sites próprios nos últimos meses para formar meu portfólio e ando trabalhando muito no desenvolvimento da minha marca pessoal. Estou criando alguns posts e começando a contribuir com a comunidade. Amo meu trabalho e busco evoluir todos os dias!
 ### Minha carreira
@@ -87,6 +87,11 @@ Atualmente estou na busca de uma nova empreitada no mundo da programação. Já 
 
 ## Atividade de código
 ![wcardosos's GitHub stats](https://github-readme-stats.vercel.app/api?username=wcardosos&show_icons=true&theme=dracula)
+
+## Projetos
+- [WVVY Representações](https://wvvyrepresentacoesveiculos.com.br): Site de uma empresa de compra e venda de veículos;
+- [My Daily](https://my-daily-wcardosos.vercel.app): App em versão alpha de organização de dailies (cerimônia do Scrum);
+- [medaumasenha](medaumasenha.vercel.app): App simples para geração de senhas;
 
 ## Posts
 - [Dicas para uma descrição de PR melhor](https://dev.to/wcardosos/dicas-para-uma-descricao-de-pr-melhor-5b3n)

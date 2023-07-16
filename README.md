@@ -1,7 +1,7 @@
 # Fala meu povo! Firmeza total?
 
 ## Bem vindos(as) ao meu GitHub
-Meu nome é Wagner, tenho 24 anos. Sou desenvolvedor Web Fullstack. Fico muito feliz de receber sua visita.
+Meu nome é Wagner, tenho 25 anos. Sou desenvolvedor Web Fullstack. Fico muito feliz de receber sua visita.
 
 ## Sobre mim
 ### Quem sou

@@ -1,105 +1,35 @@
-# Fala meu povo! Firmeza total?
+Oi! Meu nome é Wagner Cardoso
+===============================
 
-## Bem vindos(as) ao meu GitHub
-Meu nome é Wagner, tenho 25 anos. Sou desenvolvedor Web Fullstack. Fico muito feliz de receber sua visita.
+Desenvolvedor Fullstack
+-----------------------
 
-## Sobre mim
-### Quem sou
-Paulista de nascença e paraibano de coração. Sou são-paulino fanático. Gosto muito de ler. Apaixonado por programação e tudo que envolve esse mundo! Já senti o gosto de poder impactar positivamente a vida das pessoas por meio da tecnologia e quero cada vez mais ter esta sensação.
-### Meu trabalho
-Minhas tecnologias preferidas são **Python** e **Node.js** no backend e **React.js** com **Next.js** no frontend. Me interesso muito pelo campo de testes e procuro implementar **TDD** nos meus projetos. Iniciei a publicação de sites próprios nos últimos meses para formar meu portfólio e ando trabalhando muito no desenvolvimento da minha marca pessoal. Estou criando alguns posts e começando a contribuir com a comunidade. Amo meu trabalho e busco evoluir todos os dias!
-### Minha carreira
-Atualmente trabalho com desenvolvedor Web Fullstack na [Prevision](https://www.prevision.com.br/). Lá trabalho com **Ruby on Rails** e **Vue.js**. Com os desafios diários de levar tecnologia para o ramo da construção civil, sinto que evoluí muito nos últimos meses pelos desafios de aprender tecnologias novas e ter noções de um ramo tão diferente do meu.
+* 🌍  Moro na Paraíba, Brasil
+* 🖥️  Saiba mais sobre meu trabalho em https://wagnercardoso.dev
+* ✉️  Você pode entrar em contato comigo através do e-mail [wagnerdev01@gmail.com](mailto:wagnerdev01@gmail.com)
+* 🚀  Atualmente trabalho na [Prevision](http://prevision.com.br)
+* 🧠  Nas últimas semanas tenho focado meus estudos em Algoritmos e estrutura de dados
+* 🤝  Estou disposto a colaborar em projetos que melhore a vida das pessoas!
+* ⚡  Podemos falar sobre futebol, rap, luta racial e sobre a complexidade da vida
 
-## Stacks que conheço
-### Linguagens
-<div style="display: flex; gap: 8px">
-  <img height="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="Python"/>
-  <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/>
-  <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/>
-  <img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C"/>
-  <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png" alt="Ruby"/>
-</div>
+## Skills
 
-### Frontend
-<div style="display: flex; gap: 8px">
-  <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/>
-  <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/>
-  <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/>
-  <img height="32" src="https://seeklogo.com/images/V/vuejs-logo-17D586B587-seeklogo.com.png" alt="Vue.js"/>
-  <img height="32" src="https://www.coffeeclass.io/logos/chakra-ui.png" alt="Chakra UI"/>
-  <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png" alt="Tailwind CSS"/>
-</div>
+<p align="left">
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="Chakra UI" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a><a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
 
-### Backend
-<div style="display: flex; gap: 8px">
-  <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/>
-  <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express" />
-  <img height="32" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" />
-</div>
+## Redes sociais
 
-### Frameworks
-<div style="display: flex; gap: 8px">
-  <img height="32" src="https://seeklogo.com/images/D/django-logo-F46C1DD95E-seeklogo.com.png" alt="Django"/>
-  <img height="32" src="https://seeklogo.com/images/F/flask-logo-44C507ABB7-seeklogo.com.png" alt="Flask" />
-  <img height="32" src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" alt="Next.js" />
-  <img height="32" src="https://seeklogo.com/images/R/rails-logo-DD0927D290-seeklogo.com.png" alt="Ruby on Rails" />
-</div>
+<p align="left"> <a href="https://www.github.com/wcardosos" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/wagner-cardoso-dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### Banco de dados
-<div style="display: flex; gap: 8px">
-  <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/>
-  <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/>
-  <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DynamoDB.png" alt="DynamoDB" />
-</div>
+## GitHub Stats
 
-### DevOps
-<div style="display: flex; gap: 8px">
-  <img height="32" src="https://seeklogo.com/images/A/amazon-web-services-aws-logo-6C2E3DCD3E-seeklogo.com.png" alt="AWS"/>
-  <img height="32" src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png" alt="GCP"/>
-  <img height="32" src="https://logowik.com/content/uploads/images/vercel1868.jpg" alt="Vercel"/>
-  <img height="32" src="https://seeklogo.com/images/A/aws-lambda-logo-AE95CFC218-seeklogo.com.png" alt="AWS Lambda" />
-  <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker"/>
-</div>
+<a href="http://www.github.com/wcardosos"><img src="https://github-readme-stats.vercel.app/api?username=wcardosos&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="wcardosos's GitHub stats" /></a>
 
-### Versionamento
-<div style="display: flex; gap: 8px">
-  <img height="32" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git"/>
-  <img height="32" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="GitHub"/>
-  <img height="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/44_Bitbucket_logo_logos-512.png" alt="Bitbucket"/>
-</div>
+<a href="http://www.github.com/wcardosos"><img src="https://github-readme-streak-stats.herokuapp.com/?user=wcardosos&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-### Ferramentas de negócio
-<div style="display: flex; gap: 8px">
-  <img height="32" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira"/>
-  <img height="32" src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="Trello"/>
-  <img height="32" src="https://cdn.iconscout.com/icon/free/png-512/notion-1693557-1442598.png" alt="Notion"/>
-  <img height="32" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*W2iBP-WcLhrBDOifDmDSSw.png" alt="Shortcut"/>
-</div>
-
-### Outras tecnologias
-<div style="display: flex; gap: 8px">
-  <img height="32" src="https://seeklogo.com/images/G/google-looker-logo-B27BD25E4E-seeklogo.com.png" alt="Looker"/>
-</div>
-
-## Atividade de código
-![wcardosos's GitHub stats](https://github-readme-stats.vercel.app/api?username=wcardosos&show_icons=true&theme=dracula)
-
-## Projetos
-- [WVVY Representações](https://wvvyrepresentacoesveiculos.com.br): Site de uma empresa de compra e venda de veículos;
-- [My Daily](https://my-daily-wcardosos.vercel.app): App em versão alpha de organização de dailies (cerimônia do Scrum);
-- [medaumasenha](medaumasenha.vercel.app): App simples para geração de senhas;
+<a href="https://github.com/wcardosos" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wcardosos&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ## Posts
 - [Dicas para uma descrição de PR melhor](https://dev.to/wcardosos/dicas-para-uma-descricao-de-pr-melhor-5b3n)
 - [Importância do style guide e sua aplicação no Ruby](https://medium.com/prevision-tech/import%C3%A2ncia-do-style-guide-e-sua-aplica%C3%A7%C3%A3o-no-ruby-4638255678b4)
-
-## Contato
-<div style="display: flex">
-  <a href="https://www.linkedin.com/in/wagner-cardoso-dev">
-    <img alt="Linkedin Wagner" width="32" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />
-  </a>
-  <a href="mailto:wagnerdev01@gmail.com">
-    <img alt="Email Wagner" width="32" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png" />
-  </a>
-</div>

@@ -7,8 +7,8 @@ Desenvolvedor Fullstack
 * 🌍  Moro na Paraíba, Brasil
 * 🖥️  Saiba mais sobre meu trabalho em https://wagnercardoso.dev
 * ✉️  Você pode entrar em contato comigo através do e-mail [wagnerdev01@gmail.com](mailto:wagnerdev01@gmail.com)
-* 🚀  Atualmente trabalho na [Prevision](http://prevision.com.br)
-* 🧠  Nas últimas semanas tenho focado meus estudos em Algoritmos e estrutura de dados
+* 🚀  Atualmente estou buscando um novo desafio profissional
+* 🧠  Nas últimas semanas tenho focado meus estudos em DDD e Arquitetura Limpa
 * 🤝  Estou disposto a colaborar em projetos que melhore a vida das pessoas!
 * ⚡  Podemos falar sobre futebol, rap, luta racial e sobre a complexidade da vida
 

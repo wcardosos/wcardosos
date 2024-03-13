@@ -5,10 +5,10 @@ Desenvolvedor Fullstack
 -----------------------
 
 * 🌍  Moro na Paraíba, Brasil
-* 🖥️  Saiba mais sobre meu trabalho em https://wagnercardoso.dev
+* 🖥️  Saiba mais sobre meu trabalho no [meu site pessoal](https://wagnercardoso.dev)
 * ✉️  Você pode entrar em contato comigo através do e-mail [wagnerdev01@gmail.com](mailto:wagnerdev01@gmail.com)
-* 🚀  Atualmente estou buscando um novo desafio profissional
-* 🧠  Nas últimas semanas tenho focado meus estudos em DDD e Arquitetura Limpa
+* 🚀  Atualmente trabalho na [ZRP](https://www.zrp.com.br/)
+* 🧠  Nas últimas semanas tenho focado meus estudos em Next.js e TailwindCSS
 * 🤝  Estou disposto a colaborar em projetos que melhore a vida das pessoas!
 * ⚡  Podemos falar sobre futebol, rap, luta racial e sobre a complexidade da vida
 
@@ -29,7 +29,3 @@ Desenvolvedor Fullstack
 <a href="http://www.github.com/wcardosos"><img src="https://github-readme-streak-stats.herokuapp.com/?user=wcardosos&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/wcardosos" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wcardosos&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-## Posts
-- [Dicas para uma descrição de PR melhor](https://dev.to/wcardosos/dicas-para-uma-descricao-de-pr-melhor-5b3n)
-- [Importância do style guide e sua aplicação no Ruby](https://medium.com/prevision-tech/import%C3%A2ncia-do-style-guide-e-sua-aplica%C3%A7%C3%A3o-no-ruby-4638255678b4)
